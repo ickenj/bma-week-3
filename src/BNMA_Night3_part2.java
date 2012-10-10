@@ -23,7 +23,7 @@ public class BNMA_Night3_part2 {
 			}
 		}
 		
-		if(action.equals("foreach")) {
+		if(action.equals("for-each")) {
 			testForEach(values);
 		}
 		else if(action.equals("for")) {
